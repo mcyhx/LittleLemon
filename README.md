@@ -6,6 +6,9 @@
 
 
 registration : /auth/users/
+
+
+
 login :/auth/token/login/
 
 
